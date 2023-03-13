@@ -18,4 +18,4 @@ Simple application in Expo(managed workflow) ,mobile and web, where user can log
 How to deliver
  ✅ Github repo with README.md
  ✅ Android .apk file build via eas
- ✅ Ngrok.io proxy URL which points to your local webpack server (Let us know when it's ready as it must be tested while your local server is online)
+ ✖️✖️✖️ Ngrok.io proxy URL which points to your local webpack server (Let us know when it's ready as it must be tested while your local server is online)
